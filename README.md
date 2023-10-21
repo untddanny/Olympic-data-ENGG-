@@ -16,9 +16,5 @@ I'm thrilled to share my latest project, where I delved into the world of data a
 Microsoft Azure offers a robust and user-friendly environment for data analysis and management.
 Azure Databricks and Synapse Analytics are essential tools for anyone looking to gain valuable insights from complex datasets.
 
-Markup :  # Heading 1 #
-
--OR-
-
-Markup :  ============= (below H1 text)
+# Architecture #
 ![image](https://github.com/untddanny/Olympic-data-ENGG-/assets/126316522/5b30085e-de93-4ebb-b3a3-0846e9056052)
