@@ -7,10 +7,10 @@ I'm thrilled to share my latest project, where I delved into the world of data a
 **Azure Databricks**: Leveraging Azure Databricks, I was able to process and analyze vast amounts of Tokyo Olympics data efficiently. The collaborative and integrated workspace streamlined my data exploration and analysis, allowing me to derive valuable insights.
 **Azure Synapse Analytics**: To take my analysis to the next level, I employed Azure Synapse Analytics. This service facilitated real-time querying and data warehousing, enabling me to uncover hidden patterns and trends within the Olympic data.
 📈 Project Highlights:
-1.Extracted the dataset from GitHub and stored data on Azure.
-2.Leveraged Azure Databricks for in-depth data transformation and preparation.
-3.Utilized Azure Synapse Analytics to get meaningful insights.
-4,Explored various aspects of the Tokyo Olympics, including athlete performance, medal standings, and event trends.
+*Extracted the dataset from GitHub and stored data on Azure.
+*Leveraged Azure Databricks for in-depth data transformation and preparation.
+*Utilized Azure Synapse Analytics to get meaningful insights.
+*Explored various aspects of the Tokyo Olympics, including athlete performance, medal standings, and event trends.
 
 💡 Lessons Learned:
 Microsoft Azure offers a robust and user-friendly environment for data analysis and management.
